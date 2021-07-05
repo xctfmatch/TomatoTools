@@ -3,7 +3,7 @@
 
 TomatoTools 拥有CTF杂项中常见的编码密码算法的加密和解密方式，还具有自动提取flag的能力，以及异常灵活的插件模块。
 
-![](https://4eaa61a63958b1a-1258343929.cos.ap-nanjing.myqcloud.com/image-20210508142729185.png)
+![](https://4eaa61a63958b1a-1258343929.cos.ap-nanjing.myqcloud.com/image-202105081427291853.png)
 
 
 
